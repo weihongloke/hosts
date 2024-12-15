@@ -1,3 +1,5 @@
 ||registeridm.com^
 ||www.registeridm.com^
 ||secure.registeridm.com^
+||tonec.com^
+||www.tonec.com^
